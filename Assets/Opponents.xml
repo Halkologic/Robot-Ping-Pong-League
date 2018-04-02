@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<OpponentCollection>
+  <Opponents>
+    <Opponent tag="Opp1">
+      <name>Rusty Rob</name>
+      <colorRed>120</colorRed>
+      <colorGreen>89</colorGreen>
+      <colorBlue>60</colorBlue>
+      <speed>1.0</speed>
+      <reach>0.9</reach>
+      <highHitChance>1.2</highHitChance>
+      <midHitChance>3.2</midHitChance>
+      <lowHitChance>0.2</lowHitChance>
+      <xUnaccuracy>0.7</xUnaccuracy>
+      <zUnaccuracy>0.7</zUnaccuracy>
+      <forceUnaccuracy>0.4</forceUnaccuracy>
+    </Opponent>
+    <Opponent tag="Opp2">
+      <name>Easy Earl</name>
+      <colorRed>116</colorRed>
+      <colorGreen>170</colorGreen>
+      <colorBlue>244</colorBlue>
+      <speed>1.2</speed>
+      <reach>1.2</reach>
+      <highHitChance>4.4</highHitChance>
+      <midHitChance>1.7</midHitChance>
+      <lowHitChance>0.4</lowHitChance>
+      <xUnaccuracy>0.5</xUnaccuracy>
+      <zUnaccuracy>0.5</zUnaccuracy>
+      <forceUnaccuracy>0.3</forceUnaccuracy>
+    </Opponent>
+    <Opponent tag="Opp3">
+      <name>Slow Moe</name>
+      <colorRed>228</colorRed>
+      <colorGreen>229</colorGreen>
+      <colorBlue>180</colorBlue>
+      <speed>0.7</speed>
+      <reach>1.2</reach>
+      <highHitChance>1.1</highHitChance>
+      <midHitChance>1.1</midHitChance>
+      <lowHitChance>3.1</lowHitChance>
+      <xUnaccuracy>0.2</xUnaccuracy>
+      <zUnaccuracy>0.2</zUnaccuracy>
+      <forceUnaccuracy>0.1</forceUnaccuracy>
+    </Opponent>
+    <Opponent tag="Opp4">
+      <name>Medium Morgan</name>
+      <colorRed>143</colorRed>
+      <colorGreen>255</colorGreen>
+      <colorBlue>181</colorBlue>
+      <speed>1.2</speed>
+      <reach>1.4</reach>
+      <highHitChance>1.1</highHitChance>
+      <midHitChance>2.1</midHitChance>
+      <lowHitChance>3.1</lowHitChance>
+      <xUnaccuracy>0.15</xUnaccuracy>
+      <zUnaccuracy>0.15</zUnaccuracy>
+      <forceUnaccuracy>0.1</forceUnaccuracy>
+    </Opponent>
+    <Opponent tag="Opp5">
+      <name>Hasty Hannah </name>
+      <colorRed>255</colorRed>
+      <colorGreen>173</colorGreen>
+      <colorBlue>219</colorBlue>
+      <speed>2.4</speed>
+      <reach>1.6</reach>
+      <highHitChance>2.1</highHitChance>
+      <midHitChance>3.1</midHitChance>
+      <lowHitChance>2.1</lowHitChance>
+      <xUnaccuracy>0.3</xUnaccuracy>
+      <zUnaccuracy>0.3</zUnaccuracy>
+      <forceUnaccuracy>0.2</forceUnaccuracy>
+    </Opponent>
+    <Opponent tag="Opp6">
+      <name>Hard Hugo</name>
+      <colorRed>191</colorRed>
+      <colorGreen>191</colorGreen>
+      <colorBlue>191</colorBlue>
+      <speed>1.2</speed>
+      <reach>1.5</reach>
+      <highHitChance>1.1</highHitChance>
+      <midHitChance>2.1</midHitChance>
+      <lowHitChance>3.1</lowHitChance>
+      <xUnaccuracy>0.15</xUnaccuracy>
+      <zUnaccuracy>0.15</zUnaccuracy>
+      <forceUnaccuracy>0.1</forceUnaccuracy>
+    </Opponent>
+    <Opponent tag="Opp7">
+      <name>Crane Cathy</name>
+      <colorRed>255</colorRed>
+      <colorGreen>171</colorGreen>
+      <colorBlue>0</colorBlue>
+      <speed>1.6</speed>
+      <reach>2.0</reach>
+      <highHitChance>1.1</highHitChance>
+      <midHitChance>2.1</midHitChance>
+      <lowHitChance>3.1</lowHitChance>
+      <xUnaccuracy>0.15</xUnaccuracy>
+      <zUnaccuracy>0.15</zUnaccuracy>
+      <forceUnaccuracy>0.1</forceUnaccuracy>
+    </Opponent>
+    <Opponent tag="Opp8">
+      <name>Super Simon</name>
+      <colorRed>219</colorRed>
+      <colorGreen>219</colorGreen>
+      <colorBlue>56</colorBlue>
+      <speed>1.8</speed>
+      <reach>2.2</reach>
+      <highHitChance>1.1</highHitChance>
+      <midHitChance>2.5</midHitChance>
+      <lowHitChance>5.1</lowHitChance>
+      <xUnaccuracy>0.05</xUnaccuracy>
+      <zUnaccuracy>0.05</zUnaccuracy>
+      <forceUnaccuracy>0.05</forceUnaccuracy>
+    </Opponent>
+  </Opponents>
+</OpponentCollection>
+
